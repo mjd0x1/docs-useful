@@ -1,5 +1,6 @@
 # Clojure
 
+```clojure
 (range 1 100) 
 
 (vec (range 1 100)) 
@@ -39,3 +40,4 @@
 (apply + [1,2,3,4])   add 
 
 (map vector  '(1,2,3) '(2,5,6))  is zip 
+```
